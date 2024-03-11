@@ -10,7 +10,7 @@ export default {
             file: 'lib/index.js',
             exports: 'named',
             name: 'tokenizers',
-            format: 'umd',
+            format: 'esm',
             sourcemap: true
         }
     ],
